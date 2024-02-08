@@ -1,0 +1,17 @@
+{
+    "name":"caluclator516",
+    "version":"1.1.0",
+    "main":"localmodule",
+    "repository":{
+        "type":"git",
+        "url":" https://pujithavege.github.io/calculatorexperiment/"
+    },
+    "keywords":[
+        "calc","caluclator","caluclatorex"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+
+}
